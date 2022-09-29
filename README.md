@@ -1,5 +1,8 @@
 | Название проекта | Описание | Используемые библиотеки |
 |:-----------------|----------|-------------------------|
+
+|[9. Исследование рынка общепита в Москве](https:)|Проведение исследования рынка общественного питания Москвы|pandas, matplotlib, datetime, seaborn, plotly.express, math, stats|
+
 |[10. Анализ пользовательского поведения в мобильном приложении](https://github.com/Alexei-Bondarev/Projects/tree/main/Projects/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9)|Построение и анализ воронки продаж по данным мобильного приложения. Проведение A/A/B - тестирования и оценка результатов|pandas, matplotlib, datetime, seaborn, plotly.express, math, stats|
 |[13. Формирование модели монетизации](https://github.com/Alexei-Bondarev/Projects/tree/main/Projects/%D0%A4%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8)|Формирование модели монетизации игрового приложения. Проверка статистических гипотез.|pandas, seaborn, datetime, plotly.express, matplotlib.pyplot, stats, numpy|
 |[8. Проверка гипотез по увеличению выручки в интернет магазине. Проведение A/B теста и оценка результатов](https://github.com/Alexei-Bondarev/Projects/tree/main/Projects/%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7)|Используя данные интернет магазина приоритезировать гипотезы, провести оценку результатов A/B тестирования различными методами.|pandas, numpy, datetime, matplotlib.pyplot, scipy.stats|
